@@ -1,0 +1,1 @@
+It's look like 3rd party software but it help Database Administrator (DA) to enhance the security , GUI( Graphic User Interface ) and other through over Android Platform to access the Database Server.
